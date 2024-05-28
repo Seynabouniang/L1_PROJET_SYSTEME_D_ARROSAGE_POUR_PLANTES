@@ -1,0 +1,3 @@
+# L1_PROJET_SYSTEME_D_ARROSAGE_POUR_PLANTES
+Ce projet est réalisé dans le cadre du module communication sans fils en licence 1 .
+Dans ce projet nous sommes deux , mon binome GAYE Anta dioum et moi , on a décidé de réaliser un systéme d'arrosage pour plantes dont le but est de fournir suffisament d'eau à la plante . Son fonctionnement est le suivant mlorsque le capteur d'humidité analyse une valeur inférieure à une valeur prédéterminée alors la pompe s'ouvre et laisse passer l'eau et si la vzaleur captée est supérieure à celle prédétermiinée alors la pompe se ferme puisque le sol ne sera plus en déficite.
